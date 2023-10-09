@@ -1,2 +1,2 @@
 # Applied-Algorithm
-Thuật toán ứng dụng (Samsung)
+Thuật toán ứng dụng
